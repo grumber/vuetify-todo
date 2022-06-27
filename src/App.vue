@@ -86,5 +86,5 @@ export default {
 
 <style lang="sass">
 .v-app-bar-title__content
-  width: 230px
+  width: 225px
 </style>
